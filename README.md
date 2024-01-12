@@ -2,6 +2,7 @@
 Modelo de **regressão logística binária.**
 
 ![Linear Regression Vs. Logistic Regression](https://github.com/Vi-n1/LungCancerClassificationAndPrediction/assets/138793693/b37d656e-8944-4bf8-a231-48a6152b318d)
+
 fonte: Linear Regression Vs. Logistic Regression, Data Camp.
 
 
